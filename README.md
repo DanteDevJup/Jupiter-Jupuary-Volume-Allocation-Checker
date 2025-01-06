@@ -1,4 +1,4 @@
-![immagine](https://github.com/user-attachments/assets/f7c59509-f99f-4623-b842-9e0c0f2d76e0)# 🚀 Jupiter Aidrop Checker on Solana
+# 🚀 Jupiter Aidrop Checker on Solana
 
 Enhance your trading experience with our powerful Volume Checker!
 
